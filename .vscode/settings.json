@@ -1,0 +1,14 @@
+{
+    "editor.fontLigatures": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave ": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "prettier.configPath": ".prettierrc",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
